@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="true">
+    <item android:drawable="@drawable/footleft_00" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_01" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_02" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_03" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_04" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_05" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_06" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_07" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_08" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_09" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_10" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_11" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_12" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_13" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_14" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_15" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_16" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_17" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_18" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_19" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_20" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_21" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_22" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_23" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_24" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_25" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_26" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_27" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_28" android:duration="60"></item>
+    <item android:drawable="@drawable/footleft_29" android:duration="60"></item>
+</animation-list>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="true">
+    <item android:drawable="@drawable/stomach_00" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_01" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_02" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_03" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_04" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_05" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_06" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_07" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_08" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_09" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_10" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_11" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_12" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_13" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_14" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_15" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_16" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_17" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_18" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_19" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_20" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_21" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_22" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_23" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_24" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_25" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_26" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_27" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_28" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_29" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_30" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_31" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_32" android:duration="60"></item>
+    <item android:drawable="@drawable/stomach_33" android:duration="60"></item>
+</animation-list>
